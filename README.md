@@ -1,4 +1,2 @@
-# varcharfoobar.github.io
-Github Pages Website
-
-Just for testing... 
+# GitHub Pages
+Just a test. :)
